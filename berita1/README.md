@@ -1,16 +1,4 @@
-# berita1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![struktur](https://user-images.githubusercontent.com/95585881/177363749-e3c0c8fd-efb2-458d-9292-08e3b0891bd9.png)
+![tagihan](https://user-images.githubusercontent.com/95585881/177363759-2fcdf26c-fde9-4a0a-b268-26720d5b8308.png)
+![jadwal](https://user-images.githubusercontent.com/95585881/177363763-d480bd04-84c0-4582-a418-89ab66b94bcf.png)
+![struktur awal](https://user-images.githubusercontent.com/95585881/177363771-00db0027-9ea3-4e7a-8494-db1947cca9dc.png)
